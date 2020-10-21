@@ -16,7 +16,6 @@ function App() {
         <Router>
             <NavbarCar />
             <Switch>
-
                 <Route path="/" exact component={Home} />
                 <Route path="/Home" exact component={Home} />
                 <Route path="/Cars" exact component={Cars} />
@@ -24,7 +23,6 @@ function App() {
                 <Route path="/Latest" exact component={Latest} />
                 <Route path="/Add" exact component={Add} />
                 <Route path="/" component={Error_404}/>
-
             </Switch>
             <Footer />
         </Router>
