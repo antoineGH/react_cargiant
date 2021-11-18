@@ -73,4 +73,4 @@ npm start
 
 ## 5. Screenshots<a name="screenshots"></a>
 
-![GetCAR Screenshot](https://templars.guru/app/github/react_cargiant/1.PNG)
+![GetCAR Screenshot](https://github.com/antoineratat/github_docs/blob/main/react_cargiant/1.PNG?raw=true)
